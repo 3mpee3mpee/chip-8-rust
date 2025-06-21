@@ -24,7 +24,7 @@ A simple, cross-platform CHIP-8 emulator written in Rust. This project aims to p
 Clone the repository:
 
 ```sh
-git clone https://github.com/yourusername/chip8emu.git
+git clone https://github.com/3mpee3mpee/chip8emu.git
 cd chip8emu
 ```
 
@@ -66,10 +66,6 @@ cargo run --release -- path/to/your_rom.ch8
 
 - [CHIP-8 technical reference](http://devernay.free.fr/hacks/chip8/C8TECH10.HTM)
 - [rodio](https://github.com/RustAudio/rodio) for audio playback
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
 
